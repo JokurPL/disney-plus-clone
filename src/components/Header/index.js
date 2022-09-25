@@ -80,7 +80,7 @@ const NavMenu = styled.div`
         right: 0;
         opacity: 0;
         width: 0;
-        transition: all 0.3s ease-in-out;
+        transition: all 0.4s ease-in-out;
       }
 
       &:hover {
