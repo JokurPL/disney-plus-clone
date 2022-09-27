@@ -1,7 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React, { useRef, useState } from "react";
 import { AiOutlineArrowRight, AiOutlineArrowLeft } from "react-icons/ai";
-import index from "../Viewers";
 
 function Index({ data }) {
   const sliderRef = useRef(null);

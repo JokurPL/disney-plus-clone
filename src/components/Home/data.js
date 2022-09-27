@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    title: "Bajka",
+    title: "Ba  jka",
     subTitle: "Lorem",
     img: "slider-0.jpg",
   },
